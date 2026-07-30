@@ -1,0 +1,61 @@
+/* RENOVA Design System Variables - Premium AI Startup Presentation Theme */
+:root {
+  /* Color Palette - Investor Deck Futuristic Dark */
+  --primary: #22c55e;
+  --primary-hover: #16a34a;
+  --primary-light: rgba(34, 197, 94, 0.15);
+  --primary-glow: rgba(34, 197, 94, 0.4);
+
+  /* Required Accent Palette */
+  --electric-blue: #38bdf8;
+  --neon-cyan: #22d3ee;
+  --emerald-green: #22c55e;
+  --purple-accent: #8b5cf6;
+  --soft-white: #f8fafc;
+
+  --accent-emerald: #22c55e;
+  --accent-teal: #22d3ee;
+  --accent-cyan: #38bdf8;
+  --accent-amber: #f59e0b;
+
+  /* Deep Background Colors */
+  --bg-dark: #040816;
+  --bg-dark-secondary: #07111f;
+  --bg-dark-tertiary: #0b1220;
+  
+  --bg-card: rgba(11, 18, 32, 0.65);
+  --bg-card-hover: rgba(15, 25, 45, 0.85);
+  --bg-glass: rgba(7, 17, 31, 0.5);
+  --bg-input: rgba(4, 8, 22, 0.85);
+
+  /* Border & Glassmorphism */
+  --border-color: rgba(56, 189, 248, 0.2);
+  --border-color-hover: rgba(34, 211, 238, 0.5);
+  --border-glow: 0 0 20px rgba(56, 189, 248, 0.3);
+  --backdrop-blur: blur(20px);
+
+  /* Text Colors */
+  --text-main: #f8fafc;
+  --text-muted: #94a3b8;
+  --text-dim: #64748b;
+  --text-bright: #ffffff;
+
+  /* Status Colors */
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --info: #38bdf8;
+
+  /* Typography & Layout */
+  --font-family: 'Outfit', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+  --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 10px 25px -5px rgba(0, 0, 0, 0.6);
+  --shadow-glow: 0 0 30px rgba(34, 211, 238, 0.25);
+  --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+

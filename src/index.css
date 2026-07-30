@@ -1,0 +1,8 @@
+@import './styles/global.css';
+
+/* Additional App Layout Overrides */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
