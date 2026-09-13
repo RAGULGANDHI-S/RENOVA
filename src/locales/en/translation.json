@@ -1,0 +1,37 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register"
+  },
+
+  "hero": {
+    "title": "Transform Waste Into Sustainable Resources",
+    "subtitle": "AI-powered circular economy platform connecting businesses, farmers and recycling industries."
+  },
+
+  "dashboard": {
+    "title": "Dashboard",
+    "waste": "Waste Management",
+    "marketplace": "Marketplace",
+    "reports": "Reports",
+    "profile": "Profile"
+  },
+
+  "ai": {
+    "title": "AI Waste Detection",
+    "description": "Real-time YOLO based waste classification system."
+  },
+
+  "marketplace": {
+    "title": "Circular Marketplace",
+    "seller": "Trusted Sellers",
+    "shopping": "Start Shopping"
+  },
+
+  "footer": {
+    "text": "RENOVA-AI Enterprise Framework"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "brand": "RENOVA-AI",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "waste_management": "Waste Management",
+    "marketplace": "Marketplace",
+    "reports": "Reports",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "hero": {
+    "badge": "AI-POWERED CIRCULAR ECONOMY",
+    "title": "Transform Waste Into Sustainable Value",
+    "subtitle": "Next-generation computer vision, real-time waste classification, automated pickup scheduling, and direct circular marketplace trading.",
+    "get_started": "Launch Dashboard",
+    "try_ai": "Try Vision AI"
+  },
+  "ai": {
+    "title": "AI Waste Detector",
+    "subtitle": "Upload or capture images for instant YOLO organic vs inorganic material classification.",
+    "upload_btn": "Upload Image",
+    "camera_btn": "Live Camera",
+    "detecting": "Analyzing Image with YOLOv8...",
+    "detected_type": "Detected Category",
+    "confidence": "Confidence Score",
+    "classification": "Classification"
+  }
+}
